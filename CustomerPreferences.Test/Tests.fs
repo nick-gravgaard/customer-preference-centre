@@ -7,8 +7,6 @@ open CustomerPreferences.DomainTypes
 open CustomerPreferences.CommonLibrary
 
 
-
-
 [<Fact>]
 let ``test stringToFrequency`` () =
     Assert.Equal((stringToFrequency "Every day"), Some EveryDay)
