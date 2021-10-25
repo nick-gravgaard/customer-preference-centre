@@ -1,8 +1,6 @@
 
 # Customer Preference Centre
 
-## How to run
-
 This is a command line tool which takes the list of customer preferences via
 stdin, and the start date and duration as parameters.
 
