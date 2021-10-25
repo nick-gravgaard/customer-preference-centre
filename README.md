@@ -8,7 +8,7 @@ stdin, and the start date and duration as parameters.
 
 The customer preferences input file should consist of lines with the customer
 name and frequency separated by a semi-colon (`;`). For an example, see
-[CustomerPreferencesApp/example-input.txt]
+[example-input.txt](CustomerPreferencesApp/example-input.txt)
 
 ## How to run
 
