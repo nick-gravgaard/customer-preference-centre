@@ -1,0 +1,3 @@
+A;Every day
+B;On the 10th of the month
+C;On Tuesday and Friday
